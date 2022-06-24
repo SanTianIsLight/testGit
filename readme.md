@@ -15,6 +15,12 @@
 	9. git reflog
 	10. git checkout -- <file name>
 	11. git rm <file name>
+	
+	12. git remote add origin git@github.com:SanTianIsLight/testGit.git
+	13. git push -u origin master (first)
+	14. git push origin master 
+	15. git remote rm <file name>
+	16. git remote -v
 
 
 
