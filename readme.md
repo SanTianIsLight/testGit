@@ -11,6 +11,9 @@
 	5. git diff <file name>
 	6. git log
 	7. git log --pretty=oneline
+	8. git reset --hard <commid_id>
+	9. git reflog
+	10. git checkout -- <file name>
 
 
 
