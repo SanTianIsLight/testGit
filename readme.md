@@ -14,6 +14,7 @@
 	8. git reset --hard <commid_id>
 	9. git reflog
 	10. git checkout -- <file name>
+	11. git rm <file name>
 
 
 
